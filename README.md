@@ -15,4 +15,4 @@ Issues with hardware or software should be posted on this repository as an issue
 # Licenses
 The hardware and software are licensed separately, with their respective LICENSE file in the folder that it applies. If there is a LICENSE file in a folder, it will override the parent license.
 
-Rule of thumb: Find the file you are interested in, and check if there is a license in the folder. If not, continue untill you find one. This is the license that this file is under.
+Rule of thumb: Find the file you are interested in, and check if there is a license in the folder. If not, got to the parent folder and continue until you find one. This is the license that this file is under.
