@@ -1,0 +1,12 @@
+Workspace Parameters				Framing Parameters				Constants
+Parameter name	Variable Name	Value		Parameter name	Variable Name	Value	Tolerance	
+Workpiece Width	Machine_Workpiece_W	240		Tube Width	Framing_Width	20	0.2	
+Workpiece Length	Machine_Workpiece_L	240		Tube Height	Framing_Height	20	0.2
+Workpiece Height	Machine_Workpiece_H	240		Tube Thickness	Framing_Thickness	20	0.2
+Gantry Height Clearance	Machine_Height_Clearance	20		Tube Corner Radius	Frame_Corner_Radius	2	-0.2
+Bed Width Clearance	Machine_Bed_Clearance	20
+Bed Length Clearance	Machine_Length_Clearance	20
+
+
+
+Endstop Offset Global	Machine_Endstop_Offset	10
